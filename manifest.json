@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "AZ9 YouTube Playlist Length Calculator",
+    "version": "1.0",
+    "description": "Calculates the length of a YouTube playlist",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ]
+}
